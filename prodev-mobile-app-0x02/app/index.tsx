@@ -22,7 +22,7 @@ export default function Index() {
             <View style={styles.companyLogo}>
               <Image source={require("@/assets/images/Logo.png")} />
             </View>
-
+            <Text style={styles.textLarge}>Find your favorite place here</Text>
             <View style={styles.textGroup}>
               <Text style={styles.textLarge}>
                 Find your favorite place here
